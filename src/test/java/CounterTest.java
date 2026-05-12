@@ -1,6 +1,7 @@
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+com.example.mkepl_031.Counter;
 
 public class CounterTest {
 
