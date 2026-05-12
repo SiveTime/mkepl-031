@@ -1,7 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import examples.com;
 
 public class CounterTest {
 
