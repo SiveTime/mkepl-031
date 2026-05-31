@@ -19,3 +19,10 @@
   
 </project>
 
+<distributionManagement>
+    <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/SiveTime/mkepl-031</url>
+    </repository>
+</distributionManagement>
